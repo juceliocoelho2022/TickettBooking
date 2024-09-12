@@ -2,4 +2,14 @@
     <string name="app_name">TickettBooking</string>
     <string name="cinema_ticket_booking">Cinema Ticket Booking</string>
     <string name="get_started">Get Started</string>
+    <string name="pitterjackso_gmail_com">pitterjackso@gmail.com</string>
+    <string name="hello_piter_jackson">Hello Piter Jackson</string>
+    <string name="search_movies">Search Movies...</string>
+    <string name="top_movies">Top Movies</string>
+    <string name="see_all">See all</string>
+    <string name="upcoming_movies">Upcoming Movies</string>
+    <string name="explorer">Explorer</string>
+    <string name="favorite">Favorite</string>
+    <string name="cart">Cart</string>
+    <string name="profile">Profile</string>
 </resources>
