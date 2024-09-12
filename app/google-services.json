@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "162654843829",
+    "project_id": "tickettbooking-44491",
+    "storage_bucket": "tickettbooking-44491.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162654843829:android:ca956f853f443c89bd1ffc",
+        "android_client_info": {
+          "package_name": "com.devjucelio.tickettbooking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTCmfp2pTqZoz4VAcwUdzXRpeJwas54RU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
